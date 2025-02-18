@@ -1,7 +1,7 @@
 [
 game.png
 size: 256, 128
-format: RGBA8888
+format: sRGB IEC61966-2.1
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Texas
