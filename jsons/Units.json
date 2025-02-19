@@ -11,7 +11,7 @@
 		"cost": 250,
 		"requiredTech": "Military Science",
 		"requiredResource": "Horses",
-		"promotions": ["Drill I","Drill II"],
+		"promotions": ["Can move after attacking","Drill I","Drill II"],
 		"attackSound": "horse"
 	}
 ]
