@@ -1,11 +1,18 @@
 game.png
-size: 128, 128
+size: 256, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Texas.png
+NationIcons/Republic of Texas
   rotate: false
   xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Texas Ranger
+  rotate: false
+  xy: 128, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
